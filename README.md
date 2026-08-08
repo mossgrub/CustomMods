@@ -1,2 +1,2 @@
 # Custom-Mods
-Helper method for applying custom mods to the mod list.
+Helper method for applying custom mods as custom versions in the mod list.
